@@ -52,6 +52,7 @@ _Breaking developer changes, which may affect downstream projects or sites that 
 * Keep active photo viewer state properly during changeset upload ([#10987]) and when switching between photos of different services
 #### :white_check_mark: Validation
 * Show unchanged tags of a [deprecation rule](https://github.com/ideditor/schema-builder?tab=readme-ov-file#deprecations) explicitly in the validation warning ([#10104])
+* Create a new warning tier for low-severity suggestions ([#11020], thanks [@k-yle])
 #### :bug: Bugfixes
 * Fix removed tooltips from re-appearing when using keyboard navigation ([#9873])
 * Only consider feature with proper lifecycle tags in "past/futures" layer ([#10943])
@@ -78,6 +79,7 @@ _Breaking developer changes, which may affect downstream projects or sites that 
 [#10997]: https://github.com/openstreetmap/iD/issues/10997
 [#11006]: https://github.com/openstreetmap/iD/issues/11006
 [#11011]: https://github.com/openstreetmap/iD/issues/11011
+[#11020]: https://github.com/openstreetmap/iD/pull/11020
 [@ChaitanyaKadu03]: https://github.com/ChaitanyaKadu03
 
 
